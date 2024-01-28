@@ -1,5 +1,14 @@
 # Git ve GitHub'a Giriş
 
+
+## Git Nedir?
+
+Git, dağıtık bir versiyon kontrol sistemi (VCS) olarak kullanılan açık kaynaklı bir yazılımdır. Git, projelerin sürüm geçmişini ve değişikliklerini takip etmek için kullanılır. Geliştiriciler, kodlarını Git ile yöneterek değişiklikleri izleyebilir, işbirliği yapabilir ve kodlarını güvenli bir şekilde depolayabilirler.
+
+## GitHub Nedir?
+
+GitHub, Git tabanlı projeleri barındırmak, paylaşmak ve işbirliği yapmak için kullanılan popüler bir platformdur. GitHub, kullanıcılara Git deposu barındırma, işlem izleme, Pull Request oluşturma ve diğer birçok işlevselliği sunar. Ayrıca, açık kaynaklı projelerin kolayca katkıda bulunulabileceği bir topluluk platformu olarak da hizmet verir.
+
 ## Git Komutları
 
 ### `git init`
