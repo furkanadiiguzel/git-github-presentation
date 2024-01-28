@@ -163,9 +163,9 @@ Bu, ekibin yeni özellikleri ana projeye başarıyla entegre etmek için Pull Re
 
   Örnek: `git checkout feature-login` (feature-login dalına geçiş yapar)
 
-## Git Merge - Git Rebase
+## Git Merge
 
-- **Merge Açıklama**: Git Merge, iki dalı birleştirir ve sonuçta birleştirme commit'i oluşturur. Bu, farklı dallardaki değişiklikleri birleştirmek için kullanılır.
+- **Merge**: Git Merge, iki dalı birleştirir ve sonuçta birleştirme commit'i oluşturur. Bu, farklı dallardaki değişiklikleri birleştirmek için kullanılır.
 
 - **Merge Kullanım**: 
   ```shell
@@ -173,15 +173,6 @@ Bu, ekibin yeni özellikleri ana projeye başarıyla entegre etmek için Pull Re
   ```
 
   Örnek: `git merge feature-login` (feature-login dalını mevcut dal ile birleştirir)
-
-- **Rebase Açıklama**: Git Rebase, bir dalın başlangıç noktasını değiştirir. Bu, bir dalı güncellemek veya daha temiz bir commit geçmişi oluşturmak için kullanılır.
-
-- **Rebase Kullanım**: 
-  ```shell
-  git rebase [dal]
-  ```
-
-  Örnek: `git rebase master` (mevcut dalı master dalına göre yeniden baz alır)
 
 ##
 
